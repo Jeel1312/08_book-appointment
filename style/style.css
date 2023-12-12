@@ -1,0 +1,93 @@
+body{
+    margin: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 1000;
+}
+
+.detail{
+    float: left;
+    width: 700px;
+    margin: 20px;
+    color: rgb(52, 115, 134);
+}
+.form{
+    background-color: rgb(209, 227, 233);
+    float: right;
+    width: 700px;
+    height: 700px;
+    text-align: center;
+}
+.app{
+    background-color: white;
+    border-color: rgb(209, 227, 233);
+    color: rgb(2, 73, 93);
+    border-radius: 25px;
+    padding: 10px;
+    width: 160px;
+    margin-top: 50px;
+}
+
+h1{
+    color: rgb(2, 73, 93);
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.contact{
+    margin-top: 25px;
+    width: 650px;
+    height: 150px;
+    background-color: rgb(209, 227, 233);
+    color: rgb(2, 73, 93);
+}
+
+i{
+    float: left;
+    margin: 55px;
+    background-color: white;
+    padding: 8px;
+    border-radius: 30px;
+
+}
+.co{
+    height: 150px;
+    padding-top: 55px ;
+}
+
+form{
+    margin-top: 150px;
+}
+input{
+    font-size: 16px;
+    border: none;
+    margin: 8px 12px;
+    padding: 6px;
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+textarea{
+    font-size: 16px;
+    width: 500px;
+    line-height: 25px;
+    padding: 6px;
+    margin-top: 8px;
+    margin-left: -140px;
+    border-radius: 10px;
+    border: none;
+}
+
+.book{
+    margin-top: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(81, 81, 183);
+    color: white;
+    font-size: 16px;
+    width: 650px;
+    height: 50px;
+}
