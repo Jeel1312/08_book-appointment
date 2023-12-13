@@ -1,26 +1,29 @@
-body{
+body {
     margin: 30px;
 }
-a{
+
+a {
     text-decoration: none;
     color: black;
     font-weight: 1000;
 }
 
-.detail{
+.detail {
     float: left;
     width: 700px;
     margin: 20px;
     color: rgb(52, 115, 134);
 }
-.form{
+
+.form {
     background-color: rgb(209, 227, 233);
     float: right;
     width: 700px;
     height: 700px;
     text-align: center;
 }
-.app{
+
+.app {
     background-color: white;
     border-color: rgb(209, 227, 233);
     color: rgb(2, 73, 93);
@@ -30,14 +33,13 @@ a{
     margin-top: 50px;
 }
 
-h1{
+h1 {
     color: rgb(2, 73, 93);
     font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
 
-.contact{
+.contact {
     margin-top: 25px;
     width: 650px;
     height: 150px;
@@ -45,7 +47,7 @@ h1{
     color: rgb(2, 73, 93);
 }
 
-i{
+i {
     float: left;
     margin: 55px;
     background-color: white;
@@ -53,15 +55,17 @@ i{
     border-radius: 30px;
 
 }
-.co{
+
+.co {
     height: 150px;
-    padding-top: 55px ;
+    padding-top: 55px;
 }
 
-form{
+form {
     margin-top: 150px;
 }
-input{
+
+input {
     font-size: 16px;
     border: none;
     margin: 8px 12px;
@@ -70,7 +74,8 @@ input{
     width: 300px;
     border-radius: 10px;
 }
-textarea{
+
+textarea {
     font-size: 16px;
     width: 500px;
     line-height: 25px;
@@ -81,7 +86,7 @@ textarea{
     border: none;
 }
 
-.book{
+.book {
     margin-top: 15px;
     border: none;
     border-radius: 10px;
